@@ -1,5 +1,6 @@
 {
   "name": "link-creator",
+  "homepage": "http://haikyuu.github.io/link-tester",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
